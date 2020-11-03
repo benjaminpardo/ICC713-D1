@@ -1,0 +1,44 @@
+
+.container{
+    margin: auto;
+    
+}
+
+
+
+#titulo{
+    text-align: center;
+    font-size: 25px;
+}
+
+#subtitulo{
+    text-align: center;
+}
+
+#inputEmail{
+    border-color: #f1f0ea;
+    color: #f1f0ea;
+    width: 26rem;
+    height: 3rem;
+    margin-bottom: 1rem;
+    font-size: 1rem;
+    font-weight: 700;
+    text-align: center;
+    margin-left: 530px;
+    
+}
+
+#boton{
+    background-color: #003a6c;
+    color: #fafafa;
+    border-color:  #003a6c;
+    border-width: 0px;
+    width: 26rem;
+    height: 3rem;
+    font-size: 1rem;
+    font-weight: 700;
+    margin-left: 530px;
+    margin-right: auto;
+}
+
+

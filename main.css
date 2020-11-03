@@ -14,4 +14,48 @@ body {
   height: 100vh;
   display: flex;
   flex-direction: column;
+  background-color: #f1f0ea;
+}
+
+div{ 
+  display: inline;
+}
+
+
+
+/*---------------------------------------*/
+
+#header{
+  background-color: #003a6c;
+  display: inline;
+}
+
+a{
+  color: #fafafa;
+  text-decoration: none;
+}
+
+li{
+  display: inline-block;
+  float: right;
+  width: 100px;
+  padding: 20px;
+  text-align: center;
+}
+
+ul{
+  position: relative;
+  margin: 0px;;
+}
+
+#suscribirse{
+  background-color: #002e56;
+}
+
+
+
+#footer{
+  display: block;
+  text-align: center;
+  margin-bottom: 1rem;
 }
